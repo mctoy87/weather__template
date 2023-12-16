@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Rubik', sans-serif;
+  src: url('../fonts/rubik.woff2') format('woff2'),
+      url('../fonts/rubik.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'Rubik';
+	src: 
+		url('../fonts/rubik_medium.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/rubik_medium.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+  font-weight: 500;
+}
+
+@font-face {
+	font-family: 'Rubik Light';
+	src: url('../fonts/rubik_light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/rubik_light.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+  font-weight: 300;
+}
+
+@font-face {
+	font-family: 'Rubik';
+	src: url('../fonts/rubik_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/rubik_bold.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+  font-weight: 700;
+}
